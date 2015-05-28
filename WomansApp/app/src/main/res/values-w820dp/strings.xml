@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save">Save My Body Metrics</string>
+    <string name="view">View My Body Metrics</string>
+    <string name="Show">How I Measure My Hips and Waist</string>
+    <string name="height">Enter your height in metres</string>
+    <string name="breakfast">Enter your breakfast here</string>
+    <string name="Lunch">Enter your lunch here</string>
+    <string name="Dinner">Enter your dinner here</string>
+    <string name="Snacks">Enter any extra food e.g snacks</string>
+    <string name="save2">Save</string>
+</resources>

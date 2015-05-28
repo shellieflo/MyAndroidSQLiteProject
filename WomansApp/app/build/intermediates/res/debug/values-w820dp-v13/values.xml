@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/shellieflo/AndroidStudioProjects/WomansApp/app/src/main/res/values-w820dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <!-- From: file:/C:/Users/shellieflo/AndroidStudioProjects/WomansApp/app/src/main/res/values-w820dp/ids.xml -->
+    <eat-comment/>
+    <item name="txtResults" type="id"/>
+    <!-- From: file:/C:/Users/shellieflo/AndroidStudioProjects/WomansApp/app/src/main/res/values-w820dp/strings.xml -->
+    <eat-comment/>
+    <string name="Dinner">Enter your dinner here</string>
+    <string name="Lunch">Enter your lunch here</string>
+    <string name="Show">How I Measure My Hips and Waist</string>
+    <string name="Snacks">Enter any extra food e.g snacks</string>
+    <string name="breakfast">Enter your breakfast here</string>
+    <string name="height">Enter your height in metres</string>
+    <string name="save">Save My Body Metrics</string>
+    <string name="save2">Save</string>
+    <string name="view">View My Body Metrics</string>
+</resources>

@@ -1,0 +1,82 @@
+<TableLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/freeheart"
+    tools:context="ie.gmit.shellieflo.womansapp.MenuActivity"
+    android:clickable="true">
+
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButtonView"
+            android:src="@drawable/view"
+            android:layout_column="16"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/abc_btn_borderless_material"
+            android:clickable="true" />
+    </TableRow>
+
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_marginTop="@dimen/abc_dialog_padding_top_material"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/abc_dialog_padding_top_material">
+
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButtonAdd"
+            android:src="@drawable/add"
+            android:layout_column="16"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/abc_btn_borderless_material"
+            android:clickable="true" />
+    </TableRow>
+
+    <TableRow
+        android:layout_marginTop="@dimen/abc_dialog_padding_top_material"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/abc_dialog_padding_top_material">
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButtonMeasure"
+            android:src="@drawable/measure"
+            android:layout_column="16"
+            android:layout_weight="1"
+            android:background="@drawable/abc_btn_borderless_material"
+            android:clickable="true" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_marginTop="@dimen/abc_dialog_padding_top_material"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/abc_dialog_padding_top_material">
+
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButtonQuit"
+            android:src="@drawable/quit"
+            android:layout_column="16"
+            android:layout_weight="1"
+            android:background="@drawable/abc_btn_borderless_material"
+            android:clickable="true" />
+    </TableRow>
+</TableLayout>

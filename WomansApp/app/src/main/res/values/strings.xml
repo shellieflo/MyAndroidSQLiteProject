@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WomansApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_body_metrics">BodyMetricsActivity</string>
+    <string name="name">Enter your name here</string>
+    <string name="Weight">Enter your weight in lbs</string>
+    <string name="BMI">Show BMI</string>
+    <string name="Height">Enter your height in cms</string>
+    <string name="Lean_Body_Mass">Show Lean Body Mass</string>
+    <string name="Age">Enter your age here</string>
+    <string name="Body_Fat">Show Body Fat %</string>
+    <string name="Waist">Enter your waist in cms</string>
+    <string name="Hip">Show Hip to Waist Ratio</string>
+    <string name="Hip2">Enter your hips in cms</string>
+    <string name="How">Show How to Measure</string>
+    <string name="Save">Save Stats</string>
+    <string name="Ate">What I ate Today</string>
+    <string name="title_activity_menopause">MenopauseActivity</string>
+    <string name="title_activity_depression">DepressionActivity</string>
+    <string name="title_activity_violence">ViolenceActivity</string>
+    <string name="title_activity_breast_check">BreastCheckActivity</string>
+    <string name="title_activity_pregnancy">PregnancyActivity</string>
+    <string name="title_activity_measure">MeasureActivity</string>
+    <string name="title_activity_body_mass">BodyMassActivity</string>
+    <string name="title_activity_lean">LeanActivity</string>
+    <string name="title_activity_body_fat">BodyFatActivity</string>
+    <string name="title_activity_hip_ratio">HipRatioActivity</string>
+    <string name="title_activity_stats">StatsActivity</string>
+    <string name="title_activity_food_diary">FoodDiaryActivity</string>
+    <string name="title_activity_index">IndexActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="save">Save My Body Metrics</string>
+    <string name="view">View My Body Metrics</string>
+    <string name="Show">How I Measure My Hips and Waist</string>
+    <string name="height">Enter your height in metres</string>
+    <string name="title_activity_food_tracker">FoodTrackerActivity</string>
+    <string name="breakfast">Enter your breakfast here</string>
+    <string name="Lunch">Enter your lunch here</string>
+    <string name="Dinner">Enter your dinner here</string>
+    <string name="Snacks">Enter any extra food e.g snacks</string>
+    <string name="save2">Save</string>
+    <string name="title_activity_tester">TesterActivity</string>
+</resources>
